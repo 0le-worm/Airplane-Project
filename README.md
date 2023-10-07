@@ -23,9 +23,6 @@ Crashes can be tracked across qualitatitve data points, such as details about th
 
 For the purpose of our research, we filtered data to cover airplanes built by the top 10 manufacturers from 2008 onwards. 
 
-
-- Three visualizations (the same visualizations presented in the slides and notebook)
-
 ### Conclusion
 In conclusion, we found that recipricating engines are the most dangerous. While single-engine planes can appear dangerous, most of these crashes are tied to reciprocating engines. 
 
