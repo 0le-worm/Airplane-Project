@@ -1,6 +1,7 @@
 ![my image](https://images.seattletimes.com/wp-content/uploads/2023/06/06172023_transonic-illo_200022.jpg?d=2048x1152)
 
 # Aviation Risk Analysis Project
+Goknur Kaya, Marley Lopez, Namsoo Lee
 October 6, 2023
 
 ## Project Overview
