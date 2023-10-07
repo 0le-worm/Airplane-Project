@@ -31,3 +31,9 @@ Turbo engines, such as the TurboProp, are much safer. Of all the manufacturers, 
 
 A well-made, TurboProp, single-engine plane is our recommendation for starting a new venture under $5 million.
 
+### Tableau Dashboard Link:
+https://public.tableau.com/app/profile/namsoo.lee/viz/Aviation_Risk_Analysis_NL_10062023/AviationRiskAnalysis?publish=yes
+
+### Presentation Deck Link:
+https://docs.google.com/presentation/d/1AlZkFCtCO4tSE5BiYYidyafLvr0caFzLV8glXvP1Wc4/edit#slide=id.g2887822ec1d_2_308
+
